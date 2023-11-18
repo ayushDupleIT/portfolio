@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Ayush Panday";
+            document.title = "Portfolio | Chandan Pandey";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {

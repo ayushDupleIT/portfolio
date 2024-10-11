@@ -210,7 +210,7 @@ header .navbar ul li a:hover {
     z-index: 1;
   }
   .home .image {
-    flex: 1 1 40rem;
+    /* flex: 1 1 40rem; */
     z-index: 1;
   }
   .home .image img {
@@ -229,7 +229,7 @@ header .navbar ul li a:hover {
   .home .content h3 {
     font-size: 3rem;
     font-weight: 800;
-    margin-top: 7rem;
+    margin-top: 5rem;
   }
   
   .home .content h2 {
